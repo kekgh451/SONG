@@ -1,0 +1,25 @@
+body{ background: #5e4d69;
+color:#f28fc1;
+font:12px Verdana, sans-serif;}
+h1{color: #f5ec42;
+font-size:1.6em;
+text-align:center;}
+h2{
+  font-size:1.3em;
+  color:#FFCC00;
+  text-decoration:underline;
+  text-align:center;
+  font-style: italic;
+}
+p:first-letter{
+  color:#a8133f;
+}
+
+i{font:18px;
+}
+p#su{
+  text-indent:1.5em;
+  word-spacing:10px;
+  font-style:italic;
+}
+    
